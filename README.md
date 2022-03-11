@@ -4,7 +4,7 @@
 
 ### [Live Site](https://bdayremainderreact.netlify.app/)
 
-![Screenshot](https://i.ibb.co/ZN9DqYQ/weather.png)
+![Screenshot](https://i.ibb.co/hmJ1VTc/birthday-remainder-react.png)
 
 # Installation
 
