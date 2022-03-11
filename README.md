@@ -1,5 +1,6 @@
-# Birthday Remainder App React
-Birthday Remainder App created using ReactJs
+# 🎉Birthday Remainder App🎉 React
+
+🎉Birthday Remainder App created using ReactJs🎉
 
 ### [Live Site](https://bdayremainderreact.netlify.app/)
 
