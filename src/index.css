@@ -91,9 +91,9 @@ p {
   }
 }
 .container {
-  width: 50vw;
+  width: 100vw;
   height: auto;
-  /* margin: 10rem; */
+  margin: 1.5rem;
   background: #a6add6;
   max-width: 460px;
   border-radius: 0.25rem;
@@ -104,17 +104,19 @@ p {
 .container h3 {
   font-weight: 400;
   text-transform: none;
-  margin-bottom: 2rem;
+  margin-top: auto;
+  align-items: center;
   text-align: center;
 }
 
 .container a {
   color: #e8eaf6;
+  align-items: center;
   display: block;
   width: 100%;
   border-color: transparent;
   background: #461146;
-  margin: 0.5rem auto 0 auto;
+  /* margin: 0.5rem auto 0 auto; */
   text-transform: capitalize;
   font-size: 1.2rem;
   padding: 0.5rem 0;
