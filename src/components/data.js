@@ -1,14 +1,14 @@
-import Arun from '../image/keerthi.jpg';
-import Ashish from '../image/keerthi.jpg';
-import Bala from '../image/male_avtar.png';
-// import Dinesh from '../image/keerthi.jpg';
+import Arun from '../image/Arun Mohan.png';
+import Ashish from '../image/Ashish.png';
+import Bala from '../image/Bala.png';
+import Dinesh from '../image/Dinesh.png';
 import Francis from '../image/profile.jpg';
-// import Kari from '../image/keerthi.jpg';
+import Kari from '../image/Kari.jpg';
 import Keerthi from '../image/keerthi.jpg';
-// import Maneet from '../image/keerthi.jpg';
-// import Nakul from '../image/keerthi.jpg';
-// import Safi  from '../image/profile.jpg';
-// import Sharang from '../image/keerthi.jpg';
+import Maneet from '../image/Maneet.png';
+import Nakul from '../image/Nakul.png';
+import Safi  from '../image/Safi.png';
+import Sharang from '../image/Sharang.png';
 
 const data = [
 	
@@ -16,7 +16,6 @@ const data = [
 		id: 1,
 		name: 'Arun Mohan',
 		dob:"01 July",
-		age: 36,
 		gender: "Male",
 		image: `${Arun}`		
 	},
@@ -24,7 +23,6 @@ const data = [
 		id: 2,
 		name: 'Ashish Kumar Mupparam',
 		dob:"25 August",
-		age: 32,
 		gender: "Male",
 		image: `${Ashish}`		
 	},
@@ -32,74 +30,65 @@ const data = [
 		id: 3,
 		name: 'Balasubramanian V',
 		dob:"30 November",
-		age: 21,
 		gender: "Male",
 		image: `${Bala}`		
 	},
-	// {
-	// 	id: 4,
-	// 	name: 'Dinesh Senthilmurugan',
-	// 	dob:"07 November",
-	// 	age: 36,
-	// 	gender: "Male",
-	// 	image: `${Dinesh}`		
-	// },
+	{
+		id: 4,
+		name: 'Dinesh Senthilmurugan',
+		dob:"07 November",
+		gender: "Male",
+		image: `${Dinesh}`		
+	},
 	{
 		id: 5,
 		name: 'Francis Cruz',
 		dob:"11 March",
-		age: 21,
 		gender: "Male",
 		image: `${Francis}`		
 	},
-	// {
-	// 	id: 6,
-	// 	name: 'Kari Kaliyaperumal',
-	// 	dob:"10 October",
-	// 	age: 22,
-	// 	gender: "Male",
-	// 	image: `${Kari}`		
-	// },
+	{
+		id: 6,
+		name: 'Kari Kaliyaperumal',
+		dob:"10 October",
+		gender: "Male",
+		image: `${Kari}`		
+	},
 	{
 		id: 7,
 		name: 'Keerthi Gunda',
 		dob:"25 August",
-		age: 25,
 		gender: "Female",
 		image: `${Keerthi}`
 	},
-	// {
-	// 	id: 8,
-	// 	name: 'Maneet Kaur',
-	// 	dob:"07 October",
-	// 	age: 43,
-	// 	gender: "Female",
-	// 	image: `${Maneet}`
-	// },
-	// {
-	// 	id: 9,
-	// 	name: 'Nakul Pareek',
-	// 	dob:"07 October",
-	// 	age: 42,
-	// 	gender: "Male",
-	// 	image: `${Nakul}`
-	// },
-	// {
-	// 	id: 10,
-	// 	name: 'Safiyullah S A',
-	// 	dob:"10 October",
-	// 	age: 46,
-	// 	gender: "Male",
-	// 	image: `${Safi}`
-	// },
-	// {
-	// 	id: 11,
-	// 	name: 'Sharang Dixit',
-	// 	dob:"10 October",
-	// 	age: 30,
-	// 	gender: "Male",
-	// 	image: `${Sharang}`
-	// },
+	{
+		id: 8,
+		name: 'Maneet Kaur',
+		dob:"07 October",
+		gender: "Female",
+		image: `${Maneet}`
+	},
+	{
+		id: 9,
+		name: 'Nakul Pareek',
+		dob:"07 October",
+		gender: "Male",
+		image: `${Nakul}`
+	},
+	{
+		id: 10,
+		name: 'Safiyullah S A',
+		dob:"10 October",
+		gender: "Male",
+		image: `${Safi}`
+	},
+	{
+		id: 11,
+		name: 'Sharang Dixit',
+		dob:"10 October",
+		gender: "Male",
+		image: `${Sharang}`
+	},
 	// {
 	// 	id: 12,
 	// 	name: 'Peter Jacob',

@@ -14,7 +14,7 @@ export class Footer extends Component {
                     <span className="footer_twi"><a target="_blank" rel="noreferrer noopener" href="https://twitter.com/Itsme_Ajf013"><Icon name="twitter" size="big" /></a></span>
                 </div>
                 <div  className="footer_content">
-                    <span>Copyrights <Icon name="copyright" />2021 - Designed and Developed by <bold>AJF013</bold></span>
+                    <span>Copyrights <Icon name="copyright" />2022 - Designed and Developed by <bold>AJF013</bold></span>
                 </div>
             </div>
         )

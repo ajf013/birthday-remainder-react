@@ -1,12 +1,18 @@
 @import url("https://fonts.googleapis.com/css?family=Lobster");
-body {
+
+*,
+::after,
+::before {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;  
+  box-sizing: border-box;
+}
+
+body {
   font-family: "Lobster" !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgba(0, 0, 0, 0.192) !important;
+  background-color: rgba(37, 7, 105, 0.658) !important;
   color: rgb(255, 193, 22) !important;
   font-size: 1rem !important;
   line-height: 1.5;
@@ -23,13 +29,7 @@ code {
 }
 /* @import url("https://fonts.googleapis.com/css?family=Lobster");
 
-*,
-::after,
-::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 body {
   font-family: 'Lobster', !important;
@@ -52,6 +52,7 @@ h1,h2,h3 {
   letter-spacing: 0.1rem;
   text-transform: capitalize;
   line-height: 1.25;
+  margin-top: 1px;
   margin-bottom: 0.75rem;
 }
 
@@ -82,7 +83,7 @@ p {
     font-size: 1.75rem;
   }
   body {
-    font-size: 1rem;
+    font-size: 1.5 rem;
 
   }
   h1,h2,h3 {
@@ -90,19 +91,21 @@ p {
   }
 }
 .container {
-  width: 90vw;
-  margin: 5rem;
+  width: 50vw;
+  height: auto;
+  /* margin: 10rem; */
   background: #a6add6;
   max-width: 460px;
   border-radius: 0.25rem;
-  padding: 1.5rem 2rem;
+  padding: 50rem 1.5rem 2rem;
   box-shadow: 0 15px 15px #110e1066;
 }
 
 .container h3 {
-  font-weight: 600;
+  font-weight: 400;
   text-transform: none;
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 .container a {
@@ -110,7 +113,7 @@ p {
   display: block;
   width: 100%;
   border-color: transparent;
-  background: #283593;
+  background: #461146;
   margin: 0.5rem auto 0 auto;
   text-transform: capitalize;
   font-size: 1.2rem;
