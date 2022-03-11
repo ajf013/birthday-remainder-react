@@ -1,14 +1,14 @@
 import Arun from '../image/keerthi.jpg';
 import Ashish from '../image/keerthi.jpg';
-import Bala from '../image/keerthi.jpg';
-import Dinesh from '../image/keerthi.jpg';
+import Bala from '../image/male_avtar.png';
+// import Dinesh from '../image/keerthi.jpg';
 import Francis from '../image/profile.jpg';
-import Kari from '../image/keerthi.jpg';
+// import Kari from '../image/keerthi.jpg';
 import Keerthi from '../image/keerthi.jpg';
-import Maneet from '../image/keerthi.jpg';
-import Nakul from '../image/keerthi.jpg';
-import Safi  from '../image/profile.jpg';
-import Sharang from '../image/keerthi.jpg';
+// import Maneet from '../image/keerthi.jpg';
+// import Nakul from '../image/keerthi.jpg';
+// import Safi  from '../image/profile.jpg';
+// import Sharang from '../image/keerthi.jpg';
 
 const data = [
 	
@@ -28,14 +28,14 @@ const data = [
 		gender: "Male",
 		image: `${Ashish}`		
 	},
-	// {
-	// 	id: 3,
-	// 	name: 'Balasubramanian V',
-	// 	dob:"03 November",
-	// 	age: 21,
-	// 	gender: "Male",
-	// 	image: `${Bala}`		
-	// },
+	{
+		id: 3,
+		name: 'Balasubramanian V',
+		dob:"30 November",
+		age: 21,
+		gender: "Male",
+		image: `${Bala}`		
+	},
 	// {
 	// 	id: 4,
 	// 	name: 'Dinesh Senthilmurugan',
