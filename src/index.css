@@ -69,7 +69,7 @@ h3 {
 
 p {
   margin-bottom: 1.2rem;
-  color: #617d98;
+  color: #3e20a7;
 }
 
 @media screen and (min-width: 800px) {
@@ -93,7 +93,7 @@ p {
 .container {
   width: 90vw;
   height: auto;
-  margin: 5rem;
+  margin: 3rem;
   background: #a6add6;
   max-width: 460px;
   border-radius: 0.25rem;

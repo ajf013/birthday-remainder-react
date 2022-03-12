@@ -78,7 +78,7 @@ const data = [
 	{
 		id: 10,
 		name: 'Safiyullah S A',
-		dob:"10 October",
+		dob:"24 September",
 		gender: "Male",
 		image: `${Safi}`
 	},
